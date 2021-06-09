@@ -1,0 +1,23 @@
+3-640440-5【CONN RECEPT 5POS 22AWG MTA100】
+
+类别	Connector，互连器件
+矩形Connector - 自由悬挂，面板安装
+制造商	TE Connectivity AMP Connectors
+系列	MTA-100
+包装	散装
+零件状态	在售
+Connector类型	插座
+触头类型	母形插口
+针脚数	5
+间距	0.100（2.54mm）
+Number of Rows	1
+排距	-
+安装类型	自由悬挂，直角
+紧固类型	锁销滑道
+电缆端接	IDC
+线缆类型	离散式或带状缆线
+线规	22 AWG
+特性	闭端
+触头镀层	锡
+触头镀层厚度	80μin（2.03μm）
+颜色	红色 产品供应商：鹰鸣数码专营店。

@@ -1,0 +1,200 @@
+﻿1
+00:00:00,060 --> 00:00:04,530
+[Music]
+
+2
+00:00:04,530 --> 00:00:07,330
+welcome to the AMT encoder series
+
+3
+00:00:07,330 --> 00:00:09,638
+installation tutorial where we'll
+
+4
+00:00:09,638 --> 00:00:11,558
+outline the steps required to accurately
+
+5
+00:00:11,558 --> 00:00:15,560
+mount an AMT encoder onto a motor
+
+6
+00:00:15,560 --> 00:00:22,280
+[Music]
+
+7
+00:00:22,280 --> 00:00:25,429
+begin by inserting tool a as a spacer
+
+8
+00:00:25,429 --> 00:00:26,960
+that defines the distance to the
+
+9
+00:00:26,960 --> 00:00:29,778
+mounting surface slide the appropriate
+
+10
+00:00:29,778 --> 00:00:32,689
+size sleeve onto the shaft and all the
+
+11
+00:00:32,689 --> 00:00:36,619
+way down to two La slide the shaft
+
+12
+00:00:36,619 --> 00:00:41,628
+adapter over the sleeve
+
+13
+00:00:41,628 --> 00:00:44,448
+use Tulsi to press the shaft adapter
+
+14
+00:00:44,448 --> 00:00:46,549
+over the sleeve until it is flush with
+
+15
+00:00:46,549 --> 00:00:47,289
+to LA
+
+16
+00:00:47,289 --> 00:00:49,689
+[Music]
+
+17
+00:00:49,689 --> 00:00:52,289
+remove tools a and C
+
+18
+00:00:52,289 --> 00:00:58,799
+[Music]
+
+19
+00:00:58,799 --> 00:01:01,560
+use Tulsi as a centering tool for
+
+20
+00:01:01,560 --> 00:01:03,450
+mounting the AMT base onto the motor
+
+21
+00:01:03,450 --> 00:01:10,310
+[Music]
+
+22
+00:01:10,310 --> 00:01:14,040
+carefully engage the groove in Tulsi to
+
+23
+00:01:14,040 --> 00:01:15,909
+align with the flange on the base
+
+24
+00:01:15,909 --> 00:01:25,920
+[Music]
+
+25
+00:01:25,920 --> 00:01:29,159
+slide the bass and Tulsi onto the motor
+
+26
+00:01:29,159 --> 00:01:35,200
+centering on to the shaft adapter fasten
+
+27
+00:01:35,200 --> 00:01:40,359
+the base onto the motor
+
+28
+00:01:40,359 --> 00:01:42,290
+remove Tulsi
+
+29
+00:01:42,290 --> 00:01:52,840
+[Music]
+
+30
+00:01:52,840 --> 00:01:56,079
+snap the amt top cover onto the base
+
+31
+00:01:56,079 --> 00:01:58,430
+carefully observing that the teeth of
+
+32
+00:01:58,430 --> 00:02:00,349
+the shaft adapter aligned with the
+
+33
+00:02:00,349 --> 00:02:01,239
+grooves in the hub
+
+34
+00:02:01,239 --> 00:02:03,799
+[Music]
+
+35
+00:02:03,799 --> 00:02:05,810
+make sure the snaps are fully engaged
+
+36
+00:02:05,810 --> 00:02:16,169
+and the top covers flush with a base
+
+37
+00:02:16,169 --> 00:02:18,449
+align the lip on the reverse side of
+
+38
+00:02:18,449 --> 00:02:20,550
+Tulsi with the opening on the top cover
+
+39
+00:02:20,550 --> 00:02:23,310
+and push Tulsi until it is flush with
+
+40
+00:02:23,310 --> 00:02:28,439
+the front of the top government when
+
+41
+00:02:28,439 --> 00:02:30,389
+installation is finished the shaft
+
+42
+00:02:30,389 --> 00:02:32,699
+adapter sleeve and rotor hub should all
+
+43
+00:02:32,699 --> 00:02:34,229
+be recessed slightly from the front of
+
+44
+00:02:34,229 --> 00:02:35,879
+the encoder with the motor shaft
+
+45
+00:02:35,879 --> 00:02:43,349
+rotating freely thank you for watching
+
+46
+00:02:43,349 --> 00:02:46,409
+our AMT Series installation tutorial for
+
+47
+00:02:46,409 --> 00:02:48,270
+more information or support please email
+
+48
+00:02:48,270 --> 00:02:52,560
+us at AMT support at cui comm or visit
+
+49
+00:02:52,560 --> 00:02:57,689
+our website at wwe.com thanks for
+
+50
+00:02:57,689 --> 00:02:58,854
+watching
+
